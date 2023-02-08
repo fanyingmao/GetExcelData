@@ -1,3 +1,3 @@
 # node开发的简单爬虫
-node打包exe有点坑，项目要带node.exe运行。
+node打包exe有点坑，项目要带node.exe运行，做小工具还是Python会比较好。
 又被同学白嫖技术了，这年头还是要先付钱，再开工。
